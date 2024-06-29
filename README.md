@@ -11,13 +11,13 @@ Sou um entusiasta de tecnologia com paixão por análise de dados e desenvolvime
 
 ## 📊 Projetos Destacados
 
-### [Projeto 1: Análise Exploratória de Dados de Logística (Loggi)](https://github.com/alexdevguy/repositorio-exemplo/Projetos/Projeto%20de%20parceria%20Loggi/Projeto%20de%20parceria.ipynb)
+### [🚛 Projeto 1: Análise Exploratória de Dados de Logística (Loggi)](Projetos/Projeto%20de%20parceria%20Loggi/Projeto%20de%20parceria.ipynb)
 
-Neste projeto, mergulhamos profundamente nos dados de uma empresa de logística real. Desde a coleta e limpeza dos dados até a criação de visualizações perspicazes e descoberta de insights valiosos, este projeto demonstra minha capacidade de trabalhar com dados complexos em um cenário do mundo real.
+Neste projeto, mergulhamos profundamente nos dados de uma empresa de logística real. Desde a coleta e limpeza dos dados até a criação de visualizações perspicazes e descoberta de insights valiosos, este projeto demonstra minha capacidade de trabalhar com dados complexos em um cenário do mundo real. Um destaque deste projeto é o uso da **API de geocodificação Nominatim** para enriquecer nossos dados com informações geográficas.
 
-### [Projeto 2: Análise de Dados Interativa COVID-19 Dashboard](https://github.com/alexdevguy/repositorio-exemplo/Projetos/Projeto%20COVID-19%20Dashboard)
+### [📈 Projeto 2: Análise de Dados Interativa COVID-19 Dashboard](Projetos/Projeto%20COVID-19%20Dashboard/Projeto%20COVID-19%20Dashboard.ipynb)
 
-O relatório analisa o impacto da pandemia de COVID-19 em 2021 no Brasil. Com os dashboards criados, podemos analisar melhor os números de pessoas vacinadas até a 3ª dose, assim como visualizar o número de mortes e comparar esses dados entre diferentes estados do Brasil.
+Este projeto analisa o impacto da pandemia de COVID-19 em 2021 no Brasil. Os dashboards interativos permitem uma análise detalhada dos números de vacinação e óbitos, além de comparações entre estados brasileiros.
 
 ### [📉 Projeto 3: Projeto SQL Análise Exploratória de Dados Cartões de Crédito](Projetos/Projeto_SQL_Análise_Exploratória_de_Dados_Cartões_de_Crédito/Projeto_SQL_Análise_Exploratória_de_Dados_Cartões_de_Crédito.ipynb)
 
