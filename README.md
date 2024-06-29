@@ -19,6 +19,10 @@ Neste projeto, mergulhamos profundamente nos dados de uma empresa de logística 
 
 O relatório analisa o impacto da pandemia de COVID-19 em 2021 no Brasil. Com os dashboards criados, podemos analisar melhor os números de pessoas vacinadas até a 3ª dose, assim como visualizar o número de mortes e comparar esses dados entre diferentes estados do Brasil.
 
+### [📉 Projeto 3: Projeto SQL Análise Exploratória de Dados Cartões de Crédito](Projetos/Projeto_SQL_Análise_Exploratória_de_Dados_Cartões_de_Crédito/Projeto_SQL_Análise_Exploratória_de_Dados_Cartões_de_Crédito.ipynb)
+
+Este projeto de análise exploratória de dados (EDA) examina os dados dos clientes de cartão de crédito para identificar tendências e padrões. O objetivo é extrair insights valiosos para otimizar negócios, aumentar a fidelidade do cliente, a receita e o desempenho geral.
+
 ## 📫 Como me encontrar
 
 - LinkedIn: [AlexDevGuy](https://www.linkedin.com/in/alex-alves-dev/)
