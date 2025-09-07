@@ -1,35 +1,32 @@
 # 👋 Olá, eu sou o Alex!
 
-Sou um entusiasta de tecnologia com paixão por análise de dados e desenvolvimento de software. Sempre em busca de aprender coisas novas e compartilhar conhecimento com a comunidade.
+Sou profissional de TI formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Pós-Graduação em **Cibersegurança – Blue Team** pela FIAP.  
+Tenho experiência em **SAP Security** (governança de acessos e compliance) e foco no desenvolvimento de carreira como **Cloud Security Engineer**.  
 
-## 🔧 Tecnologias e Ferramentas
+## 🔒 Áreas de Interesse
 
-- **Linguagens:** Python e SQL
-- **Ferramentas de BI:** Power BI, Tableau
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Outras Tecnologias:** Git, Docker, AWS
+- Blue Team | SOC | Resposta a Incidentes  
+- Segurança em Nuvem (AWS, Azure, GCP)  
+- Linux Essentials e Administração Básica  
+- Monitoramento e Defesa em Redes  
+- Governança e Compliance em Sistemas Corporativos  
 
-## 📊 Projetos Destacados
+## 📂 Projetos (em construção)
 
-### [🚛 Projeto 1: Análise Exploratória de Dados de Logística (Loggi)](https://github.com/alexdevguy/EBAC-Analista-de-Dados/tree/main/Projetos/Projeto%20de%20parceria%20Loggi/Projeto%20de%20parceria.ipynb)
+- 🔐 [Labs de Segurança em Linux](#) – exercícios e simulações em ambientes Linux.  
+- ☁️ [Fundamentos de Cloud Security](#) – práticas iniciais com AWS/Azure.  
+- 🛡️ [Estudos Blue Team](#) – anotações e labs da pós-graduação.  
 
-Neste projeto, mergulhamos profundamente nos dados de uma empresa de logística real. Desde a coleta e limpeza dos dados até a criação de visualizações perspicazes e descoberta de insights valiosos, este projeto demonstra minha capacidade de trabalhar com dados complexos em um cenário do mundo real. Um destaque deste projeto é o uso da **API de geocodificação Nominatim** para enriquecer nossos dados com informações geográficas.
-
-### [📈 Projeto 2: Análise de Dados Interativa COVID-19 Dashboard](https://github.com/alexdevguy/EBAC-Analista-de-Dados/tree/main/Projetos/Projeto%20COVID-19%20Dashboard/Projeto%20COVID-19%20Dashboard.ipynb)
-
-Este projeto analisa o impacto da pandemia de COVID-19 em 2021 no Brasil. Os dashboards interativos permitem uma análise detalhada dos números de vacinação e óbitos, além de comparações entre estados brasileiros.
-
-### [📉 Projeto 3: Projeto SQL Análise Exploratória de Dados Cartões de Crédito](https://github.com/alexdevguy/EBAC-Analista-de-Dados/tree/main/Projetos/Projeto_SQL_Análise_Exploratória_de_Dados_Cartões_de_Crédito/Projeto_SQL_Análise_Exploratória_de_Dados_Cartões_de_Crédito.ipynb)
-
-Este projeto de análise exploratória de dados (EDA) examina os dados dos clientes de cartão de crédito para identificar tendências e padrões. O objetivo é extrair insights valiosos para otimizar negócios, aumentar a fidelidade do cliente, a receita e o desempenho geral.
+*(Atualmente reorganizando meus repositórios para focar em Cybersecurity e Cloud. Projetos anteriores de Análise de Dados foram arquivados.)*  
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [AlexDevGuy](https://www.linkedin.com/in/alex-alves-dev/)
-- GitHub: [alexdevguy](https://github.com/alexdevguy)
-- Email: devchessjr@gmail.com
+- LinkedIn: [Alex Alves](https://www.linkedin.com/in/alex-alves-security)  
+- GitHub: [alexdevguy](https://github.com/alexdevguy)  
+- Email: devchessjr@gmail.com  
 
 ## ⚡ Fatos Rápidos
 
-- 🌱 Atualmente estou aprendendo sobre Python e SQL.
-- 💬 Pergunte-me sobre análise de dados e ciência de dados.
+- 🌱 Estudando segurança em nuvem e Blue Team.  
+- 🛡️ Interesse em SOC, Cloud Security e Threat Hunting.  
+- 📚 Sempre aprendendo e aplicando conhecimento em laboratórios práticos.  
